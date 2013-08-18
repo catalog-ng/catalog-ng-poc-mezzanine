@@ -243,6 +243,9 @@ INSTALLED_APPS = (
     "mezzanine.twitter",
     #"mezzanine.accounts",
     #"mezzanine.mobile",
+
+    ## ODCatalog
+    "odcatalog.catalog",
 )
 
 # List of processors used by RequestContext to populate the context.
